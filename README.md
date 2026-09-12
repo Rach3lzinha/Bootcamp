@@ -23,4 +23,4 @@ Aplicação web que consulta a REST Countries API e mostra, em segundos, os prin
 
 ## Links
 - **Aplicação no ar (GitHub Pages):** https://rach3lzinha.github.io/Bootcamp/
-- **Repositório:** [https://github.com/seu-usuario/bootcamp2-app](https://github.com/Rach3lzinha/Bootcamp)
+- **Repositório:** https://github.com/Rach3lzinha/Bootcamp/blob/main/README.md
