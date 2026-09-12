@@ -1,7 +1,7 @@
 # Atlas — Explorador de Países
 
 ## Autor
-Seu Nome Completo — Matrícula 0000000
+Rachel Tolentino de Sena — Matrícula 22612246
 
 ## Descrição
 Aplicação web que consulta a REST Countries API e mostra, em segundos, os principais dados de qualquer país do mundo: capital, população, região, idiomas e moeda. Útil para curiosidade rápida, estudos de geografia ou preparação de viagens.
@@ -23,4 +23,4 @@ Aplicação web que consulta a REST Countries API e mostra, em segundos, os prin
 
 ## Links
 - **Aplicação no ar (GitHub Pages):** [https://seu-usuario.github.io/bootcamp2-app/](https://rach3lzinha.github.io/Bootcamp/)
-- **Repositório:** https://github.com/seu-usuario/bootcamp2-app
+- **Repositório:** [https://github.com/seu-usuario/bootcamp2-app](https://github.com/Rach3lzinha/Bootcamp)
