@@ -22,5 +22,5 @@ Aplicação web que consulta a REST Countries API e mostra, em segundos, os prin
 2. Abra o arquivo `index.html` no navegador (ou use a extensão Live Server do VS Code)
 
 ## Links
-- **Aplicação no ar (GitHub Pages):** [https://seu-usuario.github.io/bootcamp2-app/](https://rach3lzinha.github.io/Bootcamp/)
+- **Aplicação no ar (GitHub Pages):** https://rach3lzinha.github.io/Bootcamp/
 - **Repositório:** [https://github.com/seu-usuario/bootcamp2-app](https://github.com/Rach3lzinha/Bootcamp)
